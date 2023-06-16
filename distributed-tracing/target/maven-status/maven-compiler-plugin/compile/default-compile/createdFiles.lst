@@ -1,0 +1,3 @@
+com\opentelemetry\service\ServiceApplication.class
+com\opentelemetry\service\configs\OTLPConfig.class
+com\opentelemetry\service\controllers\TraceController.class
